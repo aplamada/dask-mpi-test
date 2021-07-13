@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+git clone https://github.com/dask/dask-mpi.git
+cd dask-mpi
+python setup.py install
+
+
