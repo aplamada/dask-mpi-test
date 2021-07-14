@@ -1,3 +1,0 @@
-pytest
-dask[complete]
-mpi4py
